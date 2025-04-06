@@ -126,8 +126,4 @@ Contributions to this project are welcome! If you have suggestions for improveme
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-
-For any questions or further information, please contact:
-
-- **Project Lead:** [Your Name](mailto:youremail@example.com)
-- **GitHub:** [yourusername](https://github.com/yourusername)
+chayancrroy3@gmail.com 
